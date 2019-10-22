@@ -1,5 +1,7 @@
 # todo-v
 
+See [see demo](https://todos-vue.netlify.com/)
+
 ## Project setup
 ```
 npm install
